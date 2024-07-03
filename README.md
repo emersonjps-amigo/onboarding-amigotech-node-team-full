@@ -1,5 +1,4 @@
 # onboarding-amigotech-node-team-full
-# onboarding-amigotech-node-team-full
 
 ## Estudos
 
