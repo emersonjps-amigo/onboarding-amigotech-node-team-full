@@ -1,89 +1,87 @@
 # onboarding-amigotech-node-team-full
-Estudos:
+# onboarding-amigotech-node-team-full
 
-1 - Orçamento
-    - Ajuste de saldo
-    - Aprovado sem financeiro
-    - Com financeiro
-        - Cartão + Cheque + Boleto + Crédito em conta
-        - Nota promissória
+## Estudos
 
-2 - Regra de banco de dados da criação de atendimento
-    - Particular
-        - Cartão + Cheque + Boleto + Crédito em conta
-        - Crédito de Procedimento
-        - Crédito Pré-pago
-        - Dinheiro
-        - Nota promissória
+1. **Orçamento**
+   - [ ] Ajuste de saldo
+   - [ ] Aprovado sem financeiro
+   - [ ] Com financeiro
+     - [ ] Cartão + Cheque + Boleto + Crédito em conta
+     - [ ] Nota promissória
 
-    - Convênio
-        - SADT
-        - SADT PF
-        - GHI
-        - GHI PF
-        - GHI INTERNAÇÃO
-        - CONSULTA
-        - CONSULTA PF
-        - APAC
-        - BPA
-    - Convênio + Repetir procedimento
-    - Convênio Executantes dos procedimentos (verificar como salva)
+2. **Regra de banco de dados da criação de atendimento**
+   - [ ] Particular
+     - [ ] Cartão + Cheque + Boleto + Crédito em conta
+     - [ ] Crédito de Procedimento
+     - [ ] Crédito Pré-pago
+     - [ ] Dinheiro
+     - [ ] Nota promissória
+   - [ ] Convênio
+     - [ ] SADT
+     - [ ] SADT PF
+     - [ ] GHI
+     - [ ] GHI PF
+     - [ ] GHI INTERNAÇÃO
+     - [ ] CONSULTA
+     - [ ] CONSULTA PF
+     - [ ] APAC
+     - [ ] BPA
+   - [ ] Convênio + Repetir procedimento
+   - [ ] Convênio Executantes dos procedimentos (verificar como salva)
+   - [ ] EXAMES
+   - [ ] Cirurgia
+   - [ ] Bloqueio de agenda
+   - [ ] Itens importantes (verificar como salva no banco):
+     - [ ] Tipo de atendimento (T.A)
+     - [ ] Solicitante (Interno e Externo)
 
-    - EXAMES
-    - Cirurgia
-    - Bloqueio de agenda
+3. **Exercício**
+   - [ ] Replicar a listagem da Agenda (atendimentos + bloqueios)
 
-    - Itens importantes (verificar como salva no banco):
-        - Tipo de atendimento (T.A)
-        - Solicitante (Interno e Externo)
+4. **Fluxo de sessões**
+   - [ ] Particular
+   - [ ] Convênio
 
-3 - Exercício:
-    Replicar a listagem da Agenda (atendimentos + bloqueios)
+5. **Exercício**
+   - [ ] Implementar/ajustar o exercício 3 para contemplar sessões
 
-4 - Fluxo de sessões
-    - Particular
-    - Convênio
+6. **Fluxo de Paciente compartilhado**
+   - [ ] Como funciona no banco de dados essa regra e como se aplica no sistema
 
-5 - Exercício:
-    - Implementar/ajustar o exercício 3 para contemplar sessões
+7. **Exercício**
+   - [ ] Implementar a regra de paciente compartilhado para trocar o nome do paciente para "Paciente apagado" quando o compartilhamento deixar de existir
 
-6 - Fluxo de Paciente compartilhado
-    - Como funciona no banco de dados essa regra e como se aplica no sistema
+8. **Fluxo contas a Receber (particular)**
+   - [ ] Lote de cartão antigo
+   - [ ] Lote de cartão novo
+   - [ ] Dinheiro
+   - [ ] Cheque + Boleto + Crédito em conta
+   - [ ] Nota Promissória (*** IMPORTANTE ***)
 
-7 - Exercício
-    - Implementar a regra de paciente compartilhado para trocar o nome do paciente para "Paciente apagado" quando o compartilhamento deixar de existir
+9. **Fluxo desfazer baixa (particular)**
+   - [ ] Lote de cartão antigo
+   - [ ] Lote de cartão novo
+   - [ ] Dinheiro
+   - [ ] Cheque + Boleto + Crédito em conta
+   - [ ] Nota Promissória (*** IMPORTANTE ***)
 
-8 - Fluxo contas a Receber (particular)
-    - Lote de cartão antigo
-    - Lote de cartão novo
-    - Dinheiro
-    - Cheque + Boleto + Crédito em conta
-    - Nota Promissória (*** IMPORTANTE ***)
+10. **Fluxo Convênio**
+    - [ ] Guias pendentes
+    - [ ] Lotes pendentes
+    - [ ] Lotes enviados
+    - [ ] Lotes recebidos
+    - [ ] Extrato
+    - [ ] Baixa de lote total
+    - [ ] Baixa de lote parcial
+    - [ ] Glosa
+    - [ ] Glosas pendentes
+    - [ ] Glosas recursadas
 
-9 - Fluxo desfazer baixa (particular)
-    - Lote de cartão antigo
-    - Lote de cartão novo
-    - Dinheiro
-    - Cheque + Boleto + Crédito em conta
-    - Nota Promissória (*** IMPORTANTE ***)
+11. **Desfazer baixa de lotes**
 
-10 - Fluxo Convênio
-    - Guias pendentes
-    - Lotes pendentes
-    - Lotes enviados
-    - Lotes recebidos
-    - Extrato
-
-    - Baixa de lote total
-    - Baixa de lote parcial
-    - Glosa
-    - Glosas pendentes
-    - Glosas recursadas
-
-11 - Desfazer baixa de lotes
-
-12 - Contas a pagar (Recorrência)
-    - Recorrência indeterminada
-    - Recorrência determinada
-    - Parcelamento
-    - Cronjob
+12. **Contas a pagar (Recorrência)**
+    - [ ] Recorrência indeterminada
+    - [ ] Recorrência determinada
+    - [ ] Parcelamento
+    - [ ] Cronjob
