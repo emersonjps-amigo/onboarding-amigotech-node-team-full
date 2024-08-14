@@ -5,17 +5,17 @@
 1. **Orçamento**
    - [x] Ajuste de saldo
    - [x] Aprovado sem financeiro
-   - [ ] Com financeiro
+   - [x] Com financeiro
      - [x] Cartão + Cheque + Boleto + Crédito em conta
-     - [ ] Nota promissória
+     - [x] Nota promissória
 
 2. **Regra de banco de dados da criação de atendimento**
-   - [ ] Particular
-     - [ ] Cartão + Cheque + Boleto + Crédito em conta
-     - [ ] Crédito de Procedimento
-     - [ ] Crédito Pré-pago
-     - [ ] Dinheiro
-     - [ ] Nota promissória
+   - [x] Particular
+     - [x] Cartão + Cheque + Boleto + Crédito em conta
+     - [x] Crédito de Procedimento
+     - [x] Crédito Pré-pago
+     - [x] Dinheiro
+     - [x] Nota promissória
    - [ ] Convênio
      - [ ] SADT
      - [ ] SADT PF
