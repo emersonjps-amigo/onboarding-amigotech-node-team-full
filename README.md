@@ -3,10 +3,10 @@
 ## Estudos
 
 1. **Orçamento**
-   - [ ] Ajuste de saldo
-   - [ ] Aprovado sem financeiro
+   - [x] Ajuste de saldo
+   - [x] Aprovado sem financeiro
    - [ ] Com financeiro
-     - [ ] Cartão + Cheque + Boleto + Crédito em conta
+     - [x] Cartão + Cheque + Boleto + Crédito em conta
      - [ ] Nota promissória
 
 2. **Regra de banco de dados da criação de atendimento**
