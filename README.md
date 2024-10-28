@@ -17,13 +17,13 @@
      - [x] Dinheiro
      - [x] Nota promissória
    - [ ] Convênio
-     - [ ] SADT
+     - [x] SADT
      - [ ] SADT PF
-     - [ ] GHI
+     - [x] GHI
      - [ ] GHI PF
      - [ ] GHI INTERNAÇÃO
-     - [ ] CONSULTA
-     - [ ] CONSULTA PF
+     - [x] CONSULTA
+     - [x] CONSULTA PF
      - [ ] APAC
      - [ ] BPA
    - [ ] Convênio + Repetir procedimento
