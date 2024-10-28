@@ -54,8 +54,8 @@
 8. **Fluxo contas a Receber (particular)**
    - [ ] Lote de cartão antigo
    - [ ] Lote de cartão novo
-   - [ ] Dinheiro
-   - [ ] Cheque + Boleto + Crédito em conta
+   - [x] Dinheiro
+   - [x] Cheque + Boleto + Crédito em conta
    - [ ] Nota Promissória (*** IMPORTANTE ***)
 
 9. **Fluxo desfazer baixa (particular)**
