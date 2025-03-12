@@ -26,14 +26,14 @@
      - [x] CONSULTA PF
      - [ ] APAC
      - [ ] BPA
-   - [ ] Convênio + Repetir procedimento
-   - [ ] Convênio Executantes dos procedimentos (verificar como salva)
-   - [ ] EXAMES
-   - [ ] Cirurgia
-   - [ ] Bloqueio de agenda
-   - [ ] Itens importantes (verificar como salva no banco):
-     - [ ] Tipo de atendimento (T.A)
-     - [ ] Solicitante (Interno e Externo)
+   - [x] Convênio + Repetir procedimento
+   - [x] Convênio Executantes dos procedimentos (verificar como salva)
+   - [x] EXAMES
+   - [x] Cirurgia
+   - [x] Bloqueio de agenda
+   - [x] Itens importantes (verificar como salva no banco):
+     - [x] Tipo de atendimento (T.A)
+     - [x] Solicitante (Interno e Externo)
 
 3. **Exercício**
    - [ ] Replicar a listagem da Agenda (atendimentos + bloqueios)
